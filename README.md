@@ -13,7 +13,7 @@ trivial to integrate with web services.
   uploads, streaming large downloads, using HTTP cookies, uploading JSON data,
   etc...
 - Can send both synchronous and asynchronous requests using the same interface.
-- Uses PSR-7 interfaces for requests, responses, and streams. This allows you
+- Uses PSR-7 interfaces for requests, responses, and streams. This allows youg
   to utilize other PSR-7 compatible libraries with Guzzle.
 - Supports PSR-18 allowing interoperability between other PSR-18 HTTP Clients.
 - Abstracts away the underlying HTTP transport, allowing you to write
